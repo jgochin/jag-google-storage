@@ -1,0 +1,25 @@
+{
+  "name": "jag-google-storage",
+  "version": "1.0.0",
+  "description": "Simplified Google Cloud Storage Interface/API",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgochin/jag-google-storage.git"
+  },
+  "author": "jeff@gochin.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgochin/jag-google-storage/issues"
+  },
+  "homepage": "https://github.com/jgochin/jag-google-storage#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^7.16.0"
+  }
+}
