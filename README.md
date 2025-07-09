@@ -12,3 +12,8 @@ Simplified Google Clould Storage interface/api.
 ## Usage
 
 Coming Soon
+
+## Misc
+
+- To revert your CLI to the previously installed version, you may run:
+`$ gcloud components update --version 375.0.0`
