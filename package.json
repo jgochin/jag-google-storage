@@ -2,7 +2,7 @@
   "name": "jag-google-storage",
   "version": "1.0.0",
   "description": "Simplified Google Cloud Storage Interface/API",
-  "main": "./src/index.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jgochin/jag-google-storage#readme",
   "dependencies": {
-    "@google-cloud/storage": "^7.16.0"
+    "@google-cloud/storage": "^7.16.0",
+    "nodemon": "^3.1.10"
   }
 }
