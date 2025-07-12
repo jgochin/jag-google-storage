@@ -1,3 +1,3 @@
 const GCSAPI = require('./lib/gcs-api')
 
-exports = GCSAPI
+module.exports = GCSAPI
